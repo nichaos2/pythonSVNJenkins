@@ -12,8 +12,11 @@ So use of Tortoise and Subclipes in Eclipse.
 3.	create the eclipse project in the trunk
 4.  right click on the <svn_project> annd export using the url
 5.  find the readme in the trunk folder and then right-click on it and then on checkout
+
 ****	The the <svn_project> will show a green check	****
 
-4.	right-click on the <svn_project folder and then on commit Svn Commit
-  a.	click on the folders you want to commit; attention empty folders are not upported and the procedure will stop.
-5.	Then you can commit files from eclipse.
+4.	right-click on the <svn_project folder> and then on Svn Commit
+  a.	click on the folders you want to commit and press ok; attention empty folders are not upported and the procedure will stop.
+5.	Finally,in eclipse right-clcik on teh project Team > Share > SVN 
+  a. a message will show that the project is already shared appears; click ok.
+6. change something and then click on the outgoing changes and commit
