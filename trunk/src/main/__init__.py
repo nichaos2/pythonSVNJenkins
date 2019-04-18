@@ -15,3 +15,4 @@ def concatanate(l_arg):
     for val in l_arg:
         total += str(val)
     return total
+
